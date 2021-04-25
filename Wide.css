@@ -1,0 +1,84 @@
+#Tim {
+    border-bottom-left-radius: 25%;
+    border-top-right-radius: 25%;
+    border-top-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+    height: 300px;
+    width: 290px;
+    margin-top: 30px;
+    
+}
+
+body {
+    background: linear-gradient(#5f9925, #0f571b);
+    text-align: center;
+    
+        
+}
+
+#Div {
+    height: 4px;
+    width: 200px;
+    background-color: black;
+    margin-left: 600px;
+}
+
+p {
+    font-family:cursive;
+}
+
+#Name {
+    font-family: 'Fjalla One', sans-serif;
+    color: antiquewhite;
+}
+    .list {
+        float: left;
+        padding-left:10px;
+        color:#15ff00;
+} 
+#Menu {
+    list-style: none;
+    cursor: pointer;
+    margin-top: 0px;
+    z-index: 10;
+    top: 0px;
+    position: fixed;
+    width: 100%;
+    background-color: #D4AF37;
+    text-align: center;
+}
+.list:hover{
+    background-color: #abd6a7;
+    font-size: 25px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: green;
+    
+}
+
+.Articles:hover {
+font-size=20px;
+    
+}
+
+.Articles {
+    font-size: 25px;
+    color: orange;
+}
+    
+    #Span {
+        text-align: center;
+}
+
+.list {
+    display: inline; 
+    padding-left: 33px; 
+    padding-right: 25px; 
+    font-family: fantasy; 
+    font-size: 20px;
+    margin-left: 99px;
+}
+
+#Contact {
+    background-color: floralwhite;
+}
